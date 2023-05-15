@@ -1,3 +1,5 @@
+**ALL CREDIT TO JOHN SMILGA (https://github.com/john-smilga) (this is just a modified version of a small React project from his course!)**
+
 ## Figma URL
 
 [Color generator](https://www.figma.com/file/P2SJ5QGOZvi49EOpoVTvsT/Color-generator?node-id=0%3A1&t=ZY2gnIJ9zGTSXPW8-1)
